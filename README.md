@@ -1,1 +1,2 @@
-# E-commerce-website
+# Meesho-Clone
+HTML, CSS, JavaScript
